@@ -10,7 +10,7 @@ rm -f gradle graalvm-jdk native-image.properties signal-cli
 
 # Set up versions
 SIGNAL_CLI_VERSION="v0.13.22"
-GRADLE_VERSION="9.2.1"
+GRADLE_VERSION="9.3.0"
 GRAALVM_VERSION="21"
 
 # Update the container & install the required tools
