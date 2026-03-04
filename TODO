@@ -2,6 +2,8 @@ Let signal-cli-receive.sh iterate the config file.
 
 Allow comments and multiple commands (1 per line)
 
+Change format to yaml or json
+
 # Account n°1
 +33xxx
 
